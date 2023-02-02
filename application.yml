@@ -1,3 +1,6 @@
+application:
+  name: REGISTRATION-SERVICE
+
 eureka:
   instance:
     #lease-renewal-interval-in-seconds: 1
