@@ -1,5 +1,6 @@
-application:
-  name: REGISTRATION-SERVICE
+spring:
+  application:
+    name: REGISTRATION-SERVICE
 
 eureka:
   instance:
