@@ -7,7 +7,7 @@ eureka:
     #register-with-eureka: true
   client:
     service-url:
-       defaultZone: https://eurekaservice-production.up.railway.app/eureka/
+       defaultZone: https://eurekaservice-production.up.railway.app/eureka
     healthcheck:
       enabled: true
     lease:
