@@ -4,7 +4,7 @@ eureka:
     #lease-renewal-interval-in-seconds: 1
     #lease-expiration-duration-in-seconds: 2
     register-with-eureka: true
-    hostname: localhost
+    register-with-eureka: true
   client:
     service-url:
        defaultZone: https://eurekaservice-production.up.railway.app/eureka/
